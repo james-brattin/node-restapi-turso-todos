@@ -1,3 +1,3 @@
 # Node RestAPI Turso Todos
 
-A serverless function for a restful API that performs CRUD operations on a turso database of todos.
+A serverless function for CRUD operations on a todos database.
